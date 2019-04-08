@@ -1,3 +1,8 @@
+---
+title: Markdown 
+author: Otra Persona
+date: 08/04/2019
+---
 # Sección 1
 
 ## Subsección 1.1
@@ -11,8 +16,11 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 # Sección 2
 
 ## Subsección 2.1
+![una imagen](download.jpg)
 *tutututututuruuuuuuu!*, **free** wifi
 
+## Subsección 2.2
 Una oración que requiere una cita.[^1]
 
 [^1]: ¡Ésta es mi primer nota a pie de página! Y un <http://www.windows93.net>.
+
